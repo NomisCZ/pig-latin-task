@@ -1,0 +1,326 @@
+{
+    "baseball": [
+        "base",
+        "ball"
+    ],
+    "basketball": [
+        "basket",
+        "ball"
+    ],
+    "football": [
+        "foot",
+        "ball"
+    ],
+    "volleyball": [
+        "volley",
+        "ball"
+    ],
+    "softball": [
+        "soft",
+        "ball"
+    ],
+    "baseboard": [
+        "base",
+        "board"
+    ],
+    "snowball": [
+        "snow",
+        "ball"
+    ],
+    "airplane": [
+        "air",
+        "plane"
+    ],
+    "airline": [
+        "air",
+        "line"
+    ],
+    "airport": [
+        "air",
+        "port"
+    ],
+    "fireplace": [
+        "fire",
+        "place"
+    ],
+    "firefly": [
+        "fire",
+        "fly"
+    ],
+    "campfire": [
+        "camp",
+        "fire"
+    ],
+    "waterfall": [
+        "water",
+        "fall"
+    ],
+    "watermelon": [
+        "water",
+        "melon"
+    ],
+    "rainbow": [
+        "rain",
+        "bow"
+    ],
+    "sunflower": [
+        "sun",
+        "flower"
+    ],
+    "sunset": [
+        "sun",
+        "set"
+    ],
+    "sunrise": [
+        "sun",
+        "rise"
+    ],
+    "moonlight": [
+        "moon",
+        "light"
+    ],
+    "moonshine": [
+        "moon",
+        "shine"
+    ],
+    "moonwalk": [
+        "moon",
+        "walk"
+    ],
+    "toothbrush": [
+        "tooth",
+        "brush"
+    ],
+    "toothpaste": [
+        "tooth",
+        "paste"
+    ],
+    "keyboard": [
+        "key",
+        "board"
+    ],
+    "keyhole": [
+        "key",
+        "hole"
+    ],
+    "eyeball": [
+        "eye",
+        "ball"
+    ],
+    "eyelash": [
+        "eye",
+        "lash"
+    ],
+    "earphone": [
+        "ear",
+        "phone"
+    ],
+    "earring": [
+        "ear",
+        "ring"
+    ],
+    "armchair": [
+        "arm",
+        "chair"
+    ],
+    "armspan": [
+        "arm",
+        "span"
+    ],
+    "bookmark": [
+        "book",
+        "mark"
+    ],
+    "bookshelf": [
+        "book",
+        "shelf"
+    ],
+    "bookworm": [
+        "book",
+        "worm"
+    ],
+    "notebook": [
+        "note",
+        "book"
+    ],
+    "backpack": [
+        "back",
+        "pack"
+    ],
+    "backbone": [
+        "back",
+        "bone"
+    ],
+    "backflip": [
+        "back",
+        "flip"
+    ],
+    "mailbox": [
+        "mail",
+        "box"
+    ],
+    "mailman": [
+        "mail",
+        "man"
+    ],
+    "mailbag": [
+        "mail",
+        "bag"
+    ],
+    "sailboat": [
+        "sail",
+        "boat"
+    ],
+    "sailfish": [
+        "sail",
+        "fish"
+    ],
+    "sailor": [
+        "sail",
+        "or"
+    ],
+    "shoelace": [
+        "shoe",
+        "lace"
+    ],
+    "shoeshine": [
+        "shoe",
+        "shine"
+    ],
+    "shoehorn": [
+        "shoe",
+        "horn"
+    ],
+    "footprint": [
+        "foot",
+        "print"
+    ],
+    "footstep": [
+        "foot",
+        "step"
+    ],
+    "eyelid": [
+        "eye",
+        "lid"
+    ],
+    "eyesight": [
+        "eye",
+        "sight"
+    ],
+    "earache": [
+        "ear",
+        "ache"
+    ],
+    "earlobe": [
+        "ear",
+        "lobe"
+    ],
+    "earwax": [
+        "ear",
+        "wax"
+    ],
+    "firearm": [
+        "fire",
+        "arm"
+    ],
+    "firecracker": [
+        "fire",
+        "cracker"
+    ],
+    "firefighter": [
+        "fire",
+        "fighter"
+    ],
+    "raincoat": [
+        "rain",
+        "coat"
+    ],
+    "raindrop": [
+        "rain",
+        "drop"
+    ],
+    "rainfall": [
+        "rain",
+        "fall"
+    ],
+    "snowflake": [
+        "snow",
+        "flake"
+    ],
+    "snowstorm": [
+        "snow",
+        "storm"
+    ],
+    "snowman": [
+        "snow",
+        "man"
+    ],
+    "waterbed": [
+        "water",
+        "bed"
+    ],
+    "watermark": [
+        "water",
+        "mark"
+    ],
+    "waterproof": [
+        "water",
+        "proof"
+    ],
+    "sunglasses": [
+        "sun",
+        "glasses"
+    ],
+    "sunscreen": [
+        "sun",
+        "screen"
+    ],
+    "sundown": [
+        "sun",
+        "down"
+    ],
+    "moonrise": [
+        "moon",
+        "rise"
+    ],
+    "moonscape": [
+        "moon",
+        "scape"
+    ],
+    "toothache": [
+        "tooth",
+        "ache"
+    ],
+    "toothless": [
+        "tooth",
+        "less"
+    ],
+    "toothpick": [
+        "tooth",
+        "pick"
+    ],
+    "keychain": [
+        "key",
+        "chain"
+    ],
+    "keystone": [
+        "key",
+        "stone"
+    ],
+    "bookstore": [
+        "book",
+        "store"
+    ],
+    "bookcase": [
+        "book",
+        "case"
+    ],
+    "notepad": [
+        "note",
+        "pad"
+    ],
+    "backyard": [
+        "back",
+        "yard"
+    ]
+}
