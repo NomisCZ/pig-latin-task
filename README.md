@@ -23,6 +23,23 @@ composer install
 ```bash
 php console app:translate [-ud|--useDictionary [USEDICTIONARY]] [--] <value>
 ```
+Examples:
+```bash
+php console app:translate firecracker
+```
+> Output: irefayackercray
+```bash
+php console app:translate --useDictionary 0 firecracker
+```
+> Output: irecrackerfay
+```bash
+php console app:translate fire-cracker
+```
+> Output: irefay-ackercray
+```bash
+php console app:translate "hello word apple and orange"
+```
+> Output: ellohay ordway appleyay andyay orangeyay
 
 ## Running tests
 ```bash

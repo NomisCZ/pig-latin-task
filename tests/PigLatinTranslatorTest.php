@@ -16,8 +16,8 @@ final class PigLatinTranslatorTest extends TestCase
 
     public function testVowels(): void
     {
-        $this->assertEquals('appleway', $this->translator->translate('apple'));
-        $this->assertEquals('orangeway', $this->translator->translate('orange'));
+        $this->assertEquals('appleyay', $this->translator->translate('apple'));
+        $this->assertEquals('orangeyay', $this->translator->translate('orange'));
     }
 
     public function testConsonants(): void
@@ -35,7 +35,7 @@ final class PigLatinTranslatorTest extends TestCase
     public function testWordsWithHyphens(): void
     {
         $this->assertEquals('ellway-ownknay', $this->translator->translate('well-known'));
-        $this->assertEquals('othermay-inway-awlay', $this->translator->translate('mother-in-law'));
+        $this->assertEquals('othermay-inyay-awlay', $this->translator->translate('mother-in-law'));
     }
 
     public function testCompoundWords(): void

@@ -12,6 +12,7 @@ class Word implements WordInterface
     public const SUFFIX_AY = 'ay';
     public const SUFFIX_HAY = 'hay';
     public const SUFFIX_WAY = 'way';
+    public const SUFFIX_YAY = 'yay';
 
     public function __construct(
         private readonly string              $word,
@@ -47,7 +48,7 @@ class Word implements WordInterface
     private function processSimpleWord(string $word): string
     {
         return match (1) {
-            preg_match(self::REGEX_VOWEL, $word, $matches) => $matches[1] . $matches[2] . $this->delimiter . self::SUFFIX_WAY,
+            preg_match(self::REGEX_VOWEL, $word, $matches) => $matches[1] . $matches[2] . $this->delimiter . self::SUFFIX_YAY,
             preg_match(self::REGEX_CONSONANT, $word, $matches) => $matches[2] . $this->delimiter . $matches[1] . $this->suffix,
             default => $word,
         };

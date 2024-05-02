@@ -19,7 +19,7 @@ final class PigLatinTranslatorCompoundDictionaryTest extends TestCase
     public function testKnownWords(): void
     {
         $this->assertEquals('irefayackercray', $this->translator->translate('firecracker'));
-        $this->assertEquals('eyewayightsay', $this->translator->translate('eyesight'));
+        $this->assertEquals('eyeyayightsay', $this->translator->translate('eyesight'));
     }
 
     public function testUnknownWords(): void
